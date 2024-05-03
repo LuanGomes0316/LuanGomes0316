@@ -3,8 +3,7 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-![Snake animation](https://github.com/LuanGomes0316/LuanGomes0316/blob/output/github-contribution-grid-snake-dark.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuanGomes0316&repo=LuanGomes0316&theme=react)](https://github.com/LuanGomes0316/LuanGomes0316)
+![snake gif](https://github.com/LuanGomes0316/LuanGomes0316/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Presentation -->
 <p>
