@@ -5,7 +5,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Luan Gomes! A fullstack developer from Brazil, SP.
+  Hi 👋, I'm Luan! A fullstack developer from Brazil, SP.
 
 <!--  - 🌱 DEPOIS QUE PASSAR NO VESTIBULAR -->
 
